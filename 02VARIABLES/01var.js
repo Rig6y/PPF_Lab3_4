@@ -16,3 +16,9 @@ var personX = "Janina" + " " + "Nowak";
 var isFamous = true; //false
 
 var xx = 2 + 3 + "5";
+
+console.log(x);
+console.log(y);
+console.log(z);
+console.log(name);
+console.log(person, carName, price, personA, carNameA, priceA, carNameB, personX, isFamous, xx);
