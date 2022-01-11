@@ -1,4 +1,5 @@
-if (age = tak) {
+const age = 20
+if (age >= 18) {
     "Can drive a car";
 }
 else {
